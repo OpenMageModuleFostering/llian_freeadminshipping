@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Llian_FreeAdminShipping",
+    "type": "magento-module",
+    "license": "GNU-General-Public-License-(GPL)",
+    "homepage": "",
+    "description": "Adds a free shipping method for admin (backend) users only.",
+    "authors": [
+    {
+        "name": "Llian",
+        "email": "info@llian.de"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
